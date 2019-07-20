@@ -56,8 +56,8 @@ We classify these publications according to their designated functionalities as 
 
 - A Secure Sharding Protocol For Open Blockchains. CCS'16.
 - Omniledger: A secure, scale-out, decentralized ledger via sharding. S&P'18.
-- Chainspace : A Sharded Smart Contracts Platform. NDSS'18.
 - RapidChain : Scaling Blockchain via Full Sharding. CCS'18.
 - Towards Scaling Blockchain Systems via Sharding. SIGMOD'18.
 - Monoxide : Scale Out Blockchain with Asynchronous Consensus Zones. NSDI'19.
+- Chainspace : A Sharded Smart Contracts Platform. NDSS'19.
 - Robust and Scalable Consensus for Sharded Distributed Ledgers. Preprint, 2019.
