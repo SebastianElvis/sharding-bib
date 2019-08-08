@@ -61,3 +61,4 @@ We classify these publications according to their designated functionalities as 
 - Monoxide : Scale Out Blockchain with Asynchronous Consensus Zones. NSDI'19.
 - Chainspace : A Sharded Smart Contracts Platform. NDSS'19.
 - Robust and Scalable Consensus for Sharded Distributed Ledgers. Preprint, 2019.
+- OHIE: Blockchain Scaling Made Simple. S&P'20.
