@@ -62,3 +62,5 @@ We classify these publications according to their designated functionalities as 
 - Chainspace : A Sharded Smart Contracts Platform. NDSS'19.
 - Robust and Scalable Consensus for Sharded Distributed Ledgers. Preprint, 2019.
 - OHIE: Blockchain Scaling Made Simple. S&P'20.
+- SoK: Communication Across Distributed Ledgers. Preprint, 2019
+- Divide and Scale: Formalization of Distributed Ledger Sharding Protocols. Preprint, 2019.
